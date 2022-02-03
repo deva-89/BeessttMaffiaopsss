@@ -12,7 +12,7 @@
   "repository": "https://github.com/deva-89
 /MafiaBotIsOP/",
   "website": "https://github.com/deva-89/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+     "success_url": "https://t.me/MafiaBot_Support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
